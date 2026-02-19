@@ -61,7 +61,7 @@ pip install pygame
 
 ## 🚀 Status
 
-> 🔧 Currently under construction — the alien is still reading the manual.
+> 🔧 Currently under construction, the alien is still reading the manual.
 
 ---
 
