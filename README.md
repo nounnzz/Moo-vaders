@@ -59,10 +59,6 @@ pip install pygame
 
 ---
 
-## 🚀 Status
-
-> 🔧 Currently under construction, the alien is still reading the manual.
-=======
 ## Screenshots
 <img width="1368" height="1090" alt="image" src="https://github.com/user-attachments/assets/bafa0c95-943d-481b-887b-a58eb50b2bf8" />
 
