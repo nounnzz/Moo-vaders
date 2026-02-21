@@ -12,9 +12,7 @@ clock = pygame.time.Clock()
 FPS = 60
 
 def load_image(name):
-    import os
-    path = os.path.join("assets", name)
-    img = pygame.image.load(path).convert_alpha()
+    img = pygame.image.load(name).convert_alpha()
     return img
 
 background = load_image("background.png")
@@ -371,5 +369,6 @@ def main():
             screen.blit(small_font.render("Shield!", True, (0, 200, 255)), (10, 110))
 
         pygame.display.flip()
+
 
 main()
